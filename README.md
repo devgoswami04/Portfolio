@@ -135,14 +135,12 @@ You can download my latest resume directly from the portfolio website.
 GitHub:
 https://github.com/devgoswami04
 
-LinkedIn:
-(Add your LinkedIn profile here)
 
 Portfolio:
 https://portfolio-tau-sable-51.vercel.app/
 
 Email:
-(Add your email here)
+devgoswami2004@gmail.com
 
 ---
 
