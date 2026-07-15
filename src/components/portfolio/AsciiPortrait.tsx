@@ -1,5 +1,5 @@
 import { useEffect, useRef } from "react";
-import portraitAsset from "@/assets/black_bg.png.asset.json";
+import portraitUrl from "@/assets/black_bg.png";
 
 // Chars from dark -> light.
 const RAMP = " .·:-+*=#%@";
@@ -33,7 +33,7 @@ export default function AsciiPortrait() {
   useEffect(() => {
     const img = new Image();
     img.crossOrigin = "anonymous";
-    img.src = portraitAsset.url;
+    img.src = portraitUrl;
     img.onload = () => {
       const aspect = img.height / img.width;
       const rows = Math.round(COLS * aspect * (CELL / LINE_H));
