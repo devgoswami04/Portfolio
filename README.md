@@ -6,7 +6,7 @@ A modern, responsive developer portfolio built with React, TypeScript, and Vite 
 
 🔗 https://portfolio-tau-sable-51.vercel.app/
 
-> (Update this URL if you change your Vercel domain.)
+> 
 
 ---
 
